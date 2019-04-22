@@ -1,0 +1,29 @@
+.el-table th>.cell{
+    background: #0095d5;
+    color: #fff;
+    border-right: 1px solid #fff;
+    text-align: center;
+}
+.cell{
+    text-align: center;
+}
+/* 弹窗 */
+.el-dialog__body{
+    padding: 0 20px 30px 20px;
+}
+.el-main{
+    padding: 5px 0;
+}
+.el-dialog__wrapper{
+    z-index: 9999;
+}
+/* 折叠菜单 */
+.el-collapse-item__wrap{
+    border-bottom: 0;
+}
+.el-collapse{
+    border-bottom: 0;
+}
+.el-collapse-item__content{
+    padding-bottom: 0;
+}
